@@ -57,7 +57,7 @@ public class Project
         }
          if (count == 0)
          {
-            System.out.println("Word  has not found");
+            System.out.println("Word  not found");
          } else
          {
             System.out.println("The word has been found");
