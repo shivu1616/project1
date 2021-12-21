@@ -55,13 +55,13 @@ public class Project
                 count++;
             }
         }
-        if (count == 0)
-        {
+         if (count == 0)
+         {
             System.out.println("Word not found");
-        } else
-        {
+         } else
+         {
             System.out.println("The word has been found");
             System.out.println("The word has been repeated for " + count + " times");
-        }
+         }
     }
 }
